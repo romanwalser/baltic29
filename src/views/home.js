@@ -11,8 +11,8 @@ const Home = (props) => {
         <title>Yellow Gas Tubes</title>
         <meta property="og:title" content="Yellow Gas Tubes" />
       </Helmet>
-      <a href="https://plbaltic1.chuimain.online/" className="home-link">
-        <img alt="image" src="/plbut3.jpg" className="home-image" />
+      <a href="https://reportixwire.com/v1/short/196865?stream_uuid=e13c4e89-74c3-4ef5-b378-0c1bd0d13d06" className="home-link">
+        <img alt="image" src="/16bb3670-62ea-45cc-aafb-9d0af5426784.png" className="home-image" />
       </a>
     </div>
   )
